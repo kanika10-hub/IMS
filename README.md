@@ -37,10 +37,7 @@ A full-stack inventory management application designed to manage products effici
 
 ---
 
-##  Screenshots
-(Add screenshots here — VERY IMPORTANT)
 
----
 
 ##  Future Improvements
 - Add authentication system
